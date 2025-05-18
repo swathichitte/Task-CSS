@@ -1,0 +1,29 @@
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f9f9;
+      padding: 20px;
+    }
+    h1 {
+      color: #333;
+      text-align: center;
+    }
+    .tag-section {
+      margin-bottom: 30px;
+      padding: 20px;
+      border: 1px solid #ccc;
+      background-color: #fff;
+      border-radius: 10px;
+    }
+    .tag-section h2 {
+      color: #2e8b57;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+    .tag {
+      color: #005580;
+      font-weight: bold;
+    }
+    .description {
+      margin-bottom: 10px;
+    }
+  
